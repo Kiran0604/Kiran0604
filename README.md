@@ -25,9 +25,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&column=6" alt="Trophies"/>
 </p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kiran0604&theme=github-dark" alt="Contribution Graph"/>
-</p>
-
