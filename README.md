@@ -6,7 +6,7 @@
 
 ---
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiran0604&show_icons=true&theme=dark&count_private=true" alt="Kiran0604's GitHub stats"/>
 </p>
@@ -16,12 +16,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran0604&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran0604&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<!-- Trophies (Achievements) -->
+<!-- Trophies: Only Show Known Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&row=1&column=5&title=Commits,Repositories,Experience,Followers,PullRequest" alt="Trophies"/>
 </p>
+
+---
+
+## 🏆 Badges & Achievements
+
+|  |  |  |
+|---|---|---|
+| <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&title=Commits" width="120"/> <br> **Hyper Committer** <br> `355pt` | <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&title=Repositories" width="120"/> <br> **Middle Repo Creator** <br> `16pt` | <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&title=Experience" width="120"/> <br> **Junior Dev** <br> `8pt` |
+| <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&title=Followers" width="120"/> <br> **First Friend** <br> `4pt` | <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&title=PullRequest" width="120"/> <br> **First Pull** <br> `9pt` |  |
+
