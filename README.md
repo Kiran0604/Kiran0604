@@ -26,31 +26,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Kiran0604&theme=darkhub&no-frame=true&column=6" alt="Trophies"/>
 </p>
 
----
-
-## 🛠️ Skills & Technologies
-<!-- Add your skills here -->
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kiran0604&theme=github-dark" alt="Contribution Graph"/>
 </p>
 
----
-
-<details>
-  <summary>More About Me</summary>
-  <!-- Add your custom content here -->
-</details>
-
----
-
-<!--
-This README uses live widgets that update automatically according to your GitHub stats, commits, languages, contributions, and more!
-- Stats: https://github.com/anuraghazra/github-readme-stats
-- Trophies: https://github.com/ryo-ma/github-profile-trophy
-- Streak: https://github.com/denvercoder1/github-readme-streak-stats
-- Contribution Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
--->
